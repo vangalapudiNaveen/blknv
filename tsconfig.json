@@ -6,7 +6,6 @@
     "jsx": "react-jsx",
     "jsxImportSource": "react",
     "declaration": true,
-    "declarationDir": "dist",
     "outDir": "dist",
     "moduleResolution": "node",
     "esModuleInterop": true,
